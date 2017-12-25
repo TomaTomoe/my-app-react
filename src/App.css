@@ -1,0 +1,13 @@
+@font-face {
+    font-family: Hobo;
+    src: url('./Hobo_Std_Medium.ttf');
+}
+
+@font-face {
+    font-family: Gothic;
+    src: url('./gothic.ttf');
+}
+
+.App {
+  font-family: Gothic;
+}

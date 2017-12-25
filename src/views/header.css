@@ -1,0 +1,22 @@
+.header {
+  display: block;
+  position: fixed;
+  z-index: 10;
+  height: 60px;
+  width: 100vw;
+  background: #c42a56;
+  color: #fff;
+  padding: 0 20px;
+  box-shadow: 0 2px 3px 1px rgba(0, 0, 0, 0.4);
+}
+
+.header-title {
+  font-size: 1.5em;
+  font-weight: 100;
+  font-family: Hobo;
+  text-transform: uppercase;
+  display: block;
+  float: left;
+  padding: 15px;
+  cursor: default;
+}
